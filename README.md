@@ -7,15 +7,15 @@ Thanh Nguyen Canh, Du Trinh Ngoc, Xiem HoangVan, "**Monocular 3D Object Localiza
 ```
 @article{Canh2024,
   title = {Monocular 3D Object Localization using 2D Estimates for Industrial Robot Vision System},
-  ISSN = {},
-  url = {},
-  DOI = {},
+  url = {https://www.jamris.org/index.php/JAMRIS/article/view/1485},
+  DOI = {https://doi.org/10.14313/jamris-2025-025},
   journal = {Journal of Automation, Mobile Robotics and Intelligent Systems},
   publisher = {Industrial Research Institute for Automation and Measurements PIAP, Poland},
   author = {Thanh, Nguyen Canh and Du, Trinh Ngoc and Xiem HoangVan},
-  year = {2024},
-  month = jul,
-  pages = {}
+  year = {2025},
+  month = sep,
+  volume = {19},
+  pages = {53--65}
 }
 ```
 
